@@ -3,6 +3,8 @@
 
 TeleTool.exe
 
+`./prezintacia.gif`
+
 # 🛠 Telegram Tools (Telethon)
 
 ## Описание инструментов
