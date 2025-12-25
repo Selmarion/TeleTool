@@ -1,0 +1,7 @@
+telethon
+python-dotenv
+customtkinter
+packaging
+pillow
+tqdm
+pyinstaller

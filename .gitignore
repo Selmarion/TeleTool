@@ -1,0 +1,24 @@
+# --- Секреты и настройки ---
+.env
+config.json
+*.session
+*.session-journal
+
+# --- Python и системные файлы ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Сборка PyInstaller ---
+build/
+dist/
+*.spec
+
+# --- Логи и загрузки ---
+*.log
+downloads/
+TeleToolGUI/downloads/
+
+# --- IDE ---
+.vscode/
+.idea/
